@@ -9,13 +9,13 @@ import logging
 import os
 
 # اطلاعات API تلگرام
-api_id = 28039994
-api_hash = '00877cdcd706564a4de6abf7f7d64349'
+api_id = 21670462
+api_hash = '17803ae2bc09ddd18146947efe7a7d30'
 
 client  = TelegramClient('session', api_id, api_hash)
 
 # آی‌دی تلگرام شما
-allowed_user_id = 6781876903  # آی‌دی خودتان را اینجا وارد کنید
+allowed_user_id = 5967073165  # آی‌دی خودتان را اینجا وارد کنید
 
 # لیست دشمنان و دوستان
 enemies = {}
